@@ -1,6 +1,6 @@
 import sys
 
-class Vertex:
+class Vertex(object):
     
     def __init__(self,name):
         self.name= name
@@ -75,23 +75,3 @@ class Algorithm(object):
             print(node.name)
             if node!=None:
                 node=node.predecessor;
-                    
-        
-           
-                            
-                            
-        
-                
-                  
-                
-            
-    
-                
-    
-    
-    
-   
-        
-        
-    
-
