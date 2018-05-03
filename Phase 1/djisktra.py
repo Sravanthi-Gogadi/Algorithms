@@ -19,7 +19,7 @@ class Vertex(object):
         selfPriority=self.minDistance
         otherPriority=other.minDistance
         return selfPriority<otherPriority
-    
+
     
 class Edge(object):
     
