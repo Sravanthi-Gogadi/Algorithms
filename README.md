@@ -1,4 +1,4 @@
-Design and Analysis of Algorithms
+##Design and Analysis of Algorithms
 Final Project
 Emergency Vehicle dispatch system:
 Implemented an algorithm that processes requests one by one. For each request, the algorithm will try to find the closest available emergency vehicle
